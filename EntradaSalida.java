@@ -4,7 +4,7 @@ package agendamysql;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+/*Comentario para probar el github*/
 class EntradaSalida {
 static final int INSERTAR=1;
 static final int LISTAR=2;
